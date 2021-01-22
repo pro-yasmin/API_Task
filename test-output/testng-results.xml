@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8964" started-at="2021-01-22T14:19:45Z" finished-at="2021-01-22T14:19:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8964" started-at="2021-01-22T14:19:45Z" finished-at="2021-01-22T14:19:54Z">
+      <class name="tests.Capital">
+        <test-method status="PASS" signature="getCapitalInfo_negative_empty()[pri:0, instance:tests.Capital@1d057a39]" name="getCapitalInfo_negative_empty" duration-ms="3498" started-at="2021-01-22T16:19:45Z" finished-at="2021-01-22T16:19:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCapitalInfo_negative_empty -->
+        <test-method status="PASS" signature="getCapitalInfo_negative_withcountryname()[pri:0, instance:tests.Capital@1d057a39]" name="getCapitalInfo_negative_withcountryname" duration-ms="2672" started-at="2021-01-22T16:19:48Z" finished-at="2021-01-22T16:19:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCapitalInfo_negative_withcountryname -->
+        <test-method status="PASS" signature="getCapitalInfo_positive()[pri:0, instance:tests.Capital@1d057a39]" name="getCapitalInfo_positive" duration-ms="2765" started-at="2021-01-22T16:19:51Z" finished-at="2021-01-22T16:19:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCapitalInfo_positive -->
+      </class> <!-- tests.Capital -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
